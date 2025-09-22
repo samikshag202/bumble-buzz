@@ -18,5 +18,6 @@
 
 ---
 
-- **Notebook:** [View Analysis](notebooks/bumble_profile_analysis.ipynb)
+- - **Notebook:** [View Analysis](notebooks/Bumble.ipynb)
+
 
