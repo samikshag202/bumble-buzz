@@ -18,6 +18,7 @@
 
 ---
 
-- - **Notebook:** [View Analysis](notebooks/Bumble.ipynb)
+- - **Notebook:** [View Analysis](Bumble.ipynb)
+
 
 
